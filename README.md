@@ -5,6 +5,8 @@ These jython files will automatically generate the Oauth V1 signature given the 
   applies when the base url signature values are all in the URL, not POST body or in the HTTP Headers
 
 Seperate scripts for GET and POST requests.
+  GET request can be easily changed to DELETE
+  POST request can be eaily changed to PUT
 
 OAuth v1 signature generator:
 https://web.archive.org/web/20160430150356/https://oauth.googlecode.com/svn/code/javascript/example/signature.html
